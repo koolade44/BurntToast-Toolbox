@@ -4,7 +4,6 @@ you should get a notification, if you do not hold down shift and right click ins
 
 ### To set images as icons
 1. download an image from google (or the like) **to your downloads folder** (Example file name: Download.png)
-2. **right click > Edit with Paint 3D > Canvas** Uncheck 'Lock aspect ratio' and check 'resize image with canvas' then change both boxes to 100px
 3. Open powershell and type `./SetAsIcon (Filename FILE EXTENTION REQUIRED HERE) (choose a name for the icon NO FILE EXTENSION HERE)`
 
 ### To view your saved icons
