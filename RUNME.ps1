@@ -8,4 +8,4 @@ else {
 }
 New-Item -Path "C:\Users\$Env:USERNAME" -Name "Icons" -ItemType "Directory"
 Move-Item -Path ".\cmdscr\*.ps1" -Destination "C:\Users\$Env:USERNAME"
-Remove-Item -Path ".\cmdscr"
+Remove-Item -Path ".\cmdscr" -Recurse
