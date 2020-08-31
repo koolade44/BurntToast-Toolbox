@@ -17,4 +17,4 @@
 
 `./SetAsIcon Download.png info`
 
-`./Notify info "Example" "This is an example"
+`./Notify info "Example" "This is an example"`
