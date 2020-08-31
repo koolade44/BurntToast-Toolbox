@@ -1,5 +1,6 @@
 # tbn
 ## all you have to do to set up is run RUNME.ps1 this will install and configure everything you will need
+you should get a notification, if you do not hold down shift and right click inside your curent folder and select open powershell window here then type `./RUNME`
 
 ### To set images as icons
 1. download an image from google (or the like) **to your downloads folder** (Example file name: Download.png)
