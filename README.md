@@ -7,7 +7,7 @@
 3. Open powershell and type `./SetAsIcon (Filename FILE EXTENTION REQUIRED HERE) (choose a name for the icon NO FILE EXTENSION HERE)`
 
 ### To view your saved icons
-1. Open powershell and type `./ListIcons'
+1. Open powershell and type `./ListIcons`
 
 ### To send a notification
 1. Open powershell and type `./Notify (Icon name NO FILE EXTENSION) "(Notification title)" "(notification body)"
