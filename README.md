@@ -20,3 +20,9 @@ you should get a notification, if you do not hold down shift and right click ins
 `./Notify info "Example" "This is an example"`
 
 this will send a notification that has the info icon the title says Example, and the body says This is an example
+
+
+
+#### To use in a script
+
+`C:\Users\$Env:USERNAME\Notify.ps1'
