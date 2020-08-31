@@ -1,0 +1,1 @@
+Get-ChildItem -Path "C:\Users\$Env:USERNAME\Icons" -Name
