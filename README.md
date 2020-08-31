@@ -1,4 +1,5 @@
 # BurntToast toolbox
+For video tutorial watch 2020-08-31 13-56-25.mkv
 ## all you have to do to set up is run RUNME.ps1 this will install and configure everything you will need
 you should get a notification, if you do not hold down shift and right click inside your curent folder and select open powershell window here then type `./RUNME`
 
