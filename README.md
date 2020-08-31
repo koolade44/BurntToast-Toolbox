@@ -25,4 +25,4 @@ this will send a notification that has the info icon the title says Example, and
 
 #### To use in a script
 
-`C:\Users\$Env:USERNAME\Notify.ps1'
+`C:\Users\$Env:USERNAME\Notify.ps1`
