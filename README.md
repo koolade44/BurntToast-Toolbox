@@ -10,7 +10,7 @@
 1. Open powershell and type `./ListIcons`
 
 ### To send a notification
-1. Open powershell and type `./Notify (Icon name NO FILE EXTENSION) "(Notification title)" "(notification body)"
+1. Open powershell and type `./Notify (Icon name NO FILE EXTENSION) "(Notification title)" "(notification body)"`
 
 
 #### Example setup
@@ -18,3 +18,5 @@
 `./SetAsIcon Download.png info`
 
 `./Notify info "Example" "This is an example"`
+
+this will send a notification that has the info icon the title says Example, and the body says This is an example
