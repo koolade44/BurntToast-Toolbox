@@ -1,3 +1,4 @@
+$ErrorActionPreference = 'silentlycontinue'
 $URL = $args[0]
 $Name = $args[1] + ".png"
 $Site = iwr -Uri $URL
